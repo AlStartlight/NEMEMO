@@ -39,3 +39,6 @@
    ```bash
    git clone https://github.com/AlStartlight/NEMEMO.git
 
+## ScreenShoot
+!https://media.licdn.com/dms/image/v2/D562DAQHtBqKddVeZsA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1687796521426?e=1749639600&v=beta&t=_z_K1pBfdtvKZRgA_eUzCF3QJ2bMOsin-ftw_ie1Wro
+
