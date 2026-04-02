@@ -1,5 +1,9 @@
 # NEMEMO
 
+mas asep terima kasih 
+
+terima kasih
+
 **Unreal Engine Open MMORPG FOR LEARNING**
 
 ![NEMEMO Screenshot](./SCK_Casual01.png)
